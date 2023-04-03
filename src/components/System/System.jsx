@@ -1,9 +1,9 @@
 import React from "react";
 import Page from "../Page/Page";
-const Home = (props) => {
+const System = (props) => {
     return <div>
         <Page />
         Page of system info.
     </div>
 }
-export default Home
+export default System
